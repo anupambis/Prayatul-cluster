@@ -29,7 +29,8 @@ To evaluate performance of two clustering algorithmns, you just need to replace 
 
  # Citation
 
-@misc{https://doi.org/10.36227/techrxiv.21207464.v3,
+@misc{BiswasPrayatul,
+
   doi = {10.36227/techrxiv.21207464.v3},
   
   url = { https://www.techrxiv.org/articles/preprint/Prayatul_Matrix_for_Evaluating_Clustering_Algorithms_A_Direct_Comparison_Approach/21207464 },
